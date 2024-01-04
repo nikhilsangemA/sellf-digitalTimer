@@ -1,0 +1,23 @@
+.main-container {
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+}
+.container {
+  background-color: aquamarine;
+  width: 220px;
+}
+.container2 {
+  background-color: blanchedalmond;
+  width: 220px;
+}
+.img-size {
+  width: 50px;
+}
+.container3 {
+  background-color: darkcyan;
+  width: 220px;
+}
+.plusMinus {
+  font-size: 60px;
+}
